@@ -3,7 +3,7 @@
   "title": "Affliction Control",
   "description": "Adds effects to character sheets for tracking afflictions (Pathfinder 2e v6, Foundry VTT v12)",
   "version": "1.0.0",
-  "author": "Your Name",
+  "author": "Yamarin",
   "minimumCoreVersion": "12",
   "compatibleCoreVersion": "12",
   "system": ["pf2e"],
