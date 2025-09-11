@@ -1,0 +1,18 @@
+{
+  "name": "affliction-control",
+  "title": "Affliction Control",
+  "description": "Adds effects to character sheets for tracking afflictions (Pathfinder 2e v6, Foundry VTT v12)",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "minimumCoreVersion": "12",
+  "compatibleCoreVersion": "12",
+  "system": ["pf2e"],
+  "dependencies": [],
+  "scripts": [
+    "affliction-window.js",
+    "affliction-listener.js",
+    "affliction-button.js",
+    "affliction-chat-import.js"
+  ]
+  
+}
