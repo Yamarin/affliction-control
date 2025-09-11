@@ -8,9 +8,7 @@ Goblins and goblin dogs are immune to goblin pox.
 Saving Throw DC 17 Fortitude
 
 Stage 1 Sickened 1 (1 round)
-
 Stage 2 sickened 1 and Slowed 1 (1 round)
-
 Stage 3 Sickened 2 and can't reduce its sickened value below 1 (1 day)
 ```
 
@@ -52,3 +50,11 @@ This module helps you track afflictions (poisons, diseases, curses, etc.) on cha
 - The module is designed for global script loading (not ES modules).
 - The chat import feature works with official PF2e chat cards for poisons, diseases, curses, and afflictions.
 - If you encounter issues with parsing or want to support more affliction types, let the author know!
+
+## Manifest URL
+
+To install this module directly in Foundry VTT, use the following manifest URL:
+
+```
+https://github.com/Yamarin/affliction-control/releases/download/v1.0.0/module.json
+```
