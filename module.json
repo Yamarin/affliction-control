@@ -12,9 +12,8 @@
   "url": "https://github.com/Yamarin/affliction-control",
   "download": "https://github.com/Yamarin/affliction-control/releases/download/v1.0.0/affliction-control.zip",
   "scripts": [
-    "affliction-listener.js",
-    "affliction-button.js",
-    "affliction-chat-import.js"
+  "affliction-listener.js",
+  "affliction-chat-import.js"
   ]
   
 }
